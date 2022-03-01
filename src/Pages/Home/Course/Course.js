@@ -10,13 +10,13 @@ const coures = [
         imgTeacher: t1,
     },
     {
-        Title: 'বইয়ের নাম',
+        Title: 'বইয়ের নাম1',
         Author: 'লেখকের নাম',
         imgCourse: c1,
         imgTeacher: t1,
     },
     {
-        Title: 'বইয়ের নাম',
+        Title: 'বইয়ের নাম2',
         Author: 'লেখকের নাম',
         imgCourse: c1,
         imgTeacher: t1,
