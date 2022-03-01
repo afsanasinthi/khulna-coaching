@@ -19,7 +19,7 @@ const AboutExternal = () => {
                         <div className="col-lg-5">
                             <div className="section-title mt-50">
                                 <h5>About us</h5>
-                                <h2>Welcome to Edubin </h2>
+                                <h2>Welcome to Edubin sinthia kabir</h2>
                             </div>
                             <div className="about-cont">
                                 <p>Lorem ipsum gravida nibh vel velit auctor aliquetn sollicitudirem quibibendum auci elit cons equat ipsutis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet . Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt  mauris. <br /> auci elit cons equat ipsutis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet . Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt  mauris</p>
