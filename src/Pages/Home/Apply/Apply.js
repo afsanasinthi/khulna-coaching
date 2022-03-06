@@ -1,16 +1,17 @@
 import React from 'react';
-import applyBg from '../../images/about/bg-3.png';
+// import applyBg from '../../images/about/bg-3.png';
 const Apply = () => {
     return (
         <div>
             {/* <!--====== APPLY PART START ======--> */}
             {/* <h3 className='pb-5 text-black'></h3> */}
-            <section id="apply-aprt" className="pb-120">
+            <section id="apply-aprt" className="pb-120 pt-110">
 
                 <div className="container">
 
-                    <div className="apply">
-                        <div className="row no-gutters">
+                    <div className="apply" id="apply">
+                        <h1>Exam rules</h1>
+                        <div className="row no-gutters px-5 pt-3">
 
                             <div className="col-lg-6">
                                 <div className="apply-cont apply-color-1">
@@ -42,9 +43,8 @@ const Apply = () => {
 
                                 </div>
                             </div>
-
                         </div>
-                        <a href="#!" className="main-btn">অনলাইন পরীক্ষা</a>
+                        {/* <a href="#!" className="main-btn">অনলাইন পরীক্ষা</a> */}
                     </div>
 
                 </div>

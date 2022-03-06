@@ -33,14 +33,14 @@ const navBar = () => {
                             <div className="col-lg-2 col-md-2">
                                 <div className="logo">
                                     <Link to="/">
-                                        <img src="images/logo1-01-01.png" width={200} alt="Logo" />
+                                        <img src="images/logo1-01-01.png" width={100} alt="Logo" />
                                     </Link>
 
                                 </div>
 
                             </div>
                             <div className="col-lg-5 col-md-5">
-                                <p className='text-left textLogo mobile-display'>Khulna Defence <span>Coaching</span></p>
+                                <p className='text-left textLogo mobile-display'>Khulna Defence Coaching</p>
                             </div>
                             <div className="col-lg-5 col-md-5">
                                 <div className="support-button float-right d-none d-md-block">
@@ -91,23 +91,19 @@ const navBar = () => {
                                                     আমাদের সম্পর্কে</Link>
                                             </li>
                                             <li className="nav-item">
-                                                <Link to="courses">পাঠ্যধারাগুলি</Link>
-                                                <ul className="sub-menu">
-                                                    <li><Link to="/courses">পাঠ্যধারাগুলি 1</Link></li>
-                                                    <li><Link to="/courses-singel">পাঠ্যধারাগুলি 2</Link></li>
-                                                </ul>
+                                                <Link to="courses">কোর্স গুলি</Link>
                                             </li>
                                             <li className="nav-item">
                                                 <Link to="/gallery">গ্যালারি</Link>
 
                                             </li>
                                             <li className="nav-item">
-                                                <Link to="/teachers">আমাদের বইসমূহ
+                                                <Link to="/books">আমাদের বইসমূহ
                                                 </Link>
 
                                             </li>
                                             <li className="nav-item">
-                                                <Link to="/blog">অনলাইন টেস্ট
+                                                <Link to="/quiz">অনলাইন টেস্ট
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
@@ -122,7 +118,6 @@ const navBar = () => {
                                 <div className="right-icon text-right">
                                     <ul>
                                         <li><Link to="#!" id="search"><i className="fa fa-search"></i></Link></li>
-                                        <li><Link to="#!"><i className="fa fa-shopping-bag"></i><span>0</span></Link></li>
                                     </ul>
                                 </div>
                             </div>

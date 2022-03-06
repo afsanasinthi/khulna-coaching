@@ -8,7 +8,6 @@ import Apply from '../Apply/Apply';
 import Course from '../Course/Course';
 import BookSrevices from '../BookServices/BookSrevices';
 import Contact from '../Contact/Contact';
-import Fact from '../Fact/Fact';
 import Msg from '../Msg/Msg';
 
 
@@ -22,11 +21,9 @@ const Home = () => {
             <Header></Header>
             <Category></Category>
             <About></About>
-            <Apply></Apply>
             <BookSrevices></BookSrevices>
             <Course></Course>
             <Contact></Contact>
-            <Fact></Fact>
             <Msg></Msg>
             <Footer></Footer>
         </div>

@@ -614,7 +614,7 @@ p {
 
 .textLogo {
     font-weight: 900;
-    font-size: 38px;
+    font-size: 36px;
     color: #092E20;
 }
 
@@ -1401,17 +1401,18 @@ p {
 }
 
 .apply .apply-cont {
-    padding: 45px 50px 50px;
+    padding: 30px 30px 30px;
 }
 
 .apply .apply-cont h3 {
-    font-size: 30px;
+    font-size: 18px;
     color: #FFC000;
     padding-bottom: 15px;
 }
 
 .apply .apply-cont p {
     color: #fff;
+    font-size: 14px;
     /* padding-bottom: 45px; */
 }
 
