@@ -12,7 +12,7 @@ const Contact = () => {
                             <div className="contact-from mt-30">
                                 <div className="section-title">
                                     <h5>আমাদের সাথে যোগাযোগ</h5>
-                                    <h3>যেকোনো প্রয়োজনে, আপনাদের পাশে</h3>
+                                    <h3>যেকোনো প্রয়োজনে, আপনাদের পাশে fixx </h3>
                                 </div>
                                 <div className="main-form pt-45">
                                     <form id="contact-form" action="#" method="post" data-toggle="validator">
