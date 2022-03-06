@@ -4,7 +4,7 @@ import NavBar from '../../Shared/Navigation/NavBar';
 import Footer from '../../Shared/footer/Footer';
 import Category from '../Category/Category';
 import About from '../About/About';
-import Apply from '../Apply/Apply';
+// import Apply from '../Apply/Apply';
 import Course from '../Course/Course';
 import BookSrevices from '../BookServices/BookSrevices';
 import Contact from '../Contact/Contact';
